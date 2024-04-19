@@ -6,7 +6,7 @@ Lab Note Contents :
 * Setting Velodyne LiDAR at ARIL
 * Install CloudSIm on MacOs + error solved
 * SASOL solar vehicle challenge strategy Resrach
-* Personal Studies
+* Personal Studies(LiDAR, Cloud, DL....)
 
 
 Lab Metting Contents :
